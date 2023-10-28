@@ -1,0 +1,12 @@
+D:\ProductRegistration\Entities\bin\Release\net6.0\Entities.deps.json
+D:\ProductRegistration\Entities\bin\Release\net6.0\Entities.dll
+D:\ProductRegistration\Entities\bin\Release\net6.0\Entities.pdb
+D:\ProductRegistration\Entities\obj\Release\net6.0\Entities.csproj.AssemblyReference.cache
+D:\ProductRegistration\Entities\obj\Release\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductRegistration\Entities\obj\Release\net6.0\Entities.AssemblyInfoInputs.cache
+D:\ProductRegistration\Entities\obj\Release\net6.0\Entities.AssemblyInfo.cs
+D:\ProductRegistration\Entities\obj\Release\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\ProductRegistration\Entities\obj\Release\net6.0\Entities.dll
+D:\ProductRegistration\Entities\obj\Release\net6.0\refint\Entities.dll
+D:\ProductRegistration\Entities\obj\Release\net6.0\Entities.pdb
+D:\ProductRegistration\Entities\obj\Release\net6.0\ref\Entities.dll
